@@ -1,0 +1,13 @@
+# Datos personales
+data/
+
+# Entornos virtuales
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Configuraciones locales
+.env
+
